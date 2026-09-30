@@ -1,0 +1,150 @@
+{
+  "statementId": "STMT-6abcb2c78c9dc53187531df6-1790753820621",
+  "generatedAt": "2026-09-30T07:37:00.621Z",
+  "customer": {
+    "name": "Praveen Kalansooriya",
+    "email": "kalansooriya615@gmail.com"
+  },
+  "loanSummary": {
+    "loanId": "6abcb2c78c9dc53187531df6",
+    "loanAmount": 200000,
+    "interestRate": 12,
+    "interestType": "REDUCING",
+    "tenureMonths": 12,
+    "emiAmount": 17769.76,
+    "status": "APPROVED",
+    "startDate": "2026-09-30T06:57:11.016Z",
+    "firstDueDate": "2026-10-30T06:57:11.016Z"
+  },
+  "accountBalance": {
+    "outstandingBalance": 200000,
+    "totalRepaid": 0,
+    "totalPrincipalRepaid": 0,
+    "totalInterestRepaid": 0,
+    "paidInstallments": 0,
+    "remainingInstallments": 12
+  },
+  "repayments": [],
+  "schedule": [
+    {
+      "installmentNumber": 1,
+      "dueDate": "2026-10-30T06:57:11.016Z",
+      "emi": 17769.76,
+      "principal": 15769.76,
+      "interest": 2000,
+      "balance": 184230.24,
+      "paid": false,
+      "_id": "6abcb2c78c9dc53187531df7"
+    },
+    {
+      "installmentNumber": 2,
+      "dueDate": "2026-11-30T06:57:11.016Z",
+      "emi": 17769.76,
+      "principal": 15927.46,
+      "interest": 1842.3,
+      "balance": 168302.78,
+      "paid": false,
+      "_id": "6abcb2c78c9dc53187531df8"
+    },
+    {
+      "installmentNumber": 3,
+      "dueDate": "2026-12-30T06:57:11.016Z",
+      "emi": 17769.76,
+      "principal": 16086.73,
+      "interest": 1683.03,
+      "balance": 152216.05,
+      "paid": false,
+      "_id": "6abcb2c78c9dc53187531df9"
+    },
+    {
+      "installmentNumber": 4,
+      "dueDate": "2027-01-30T06:57:11.016Z",
+      "emi": 17769.76,
+      "principal": 16247.6,
+      "interest": 1522.16,
+      "balance": 135968.45,
+      "paid": false,
+      "_id": "6abcb2c78c9dc53187531dfa"
+    },
+    {
+      "installmentNumber": 5,
+      "dueDate": "2027-03-02T06:57:11.016Z",
+      "emi": 17769.76,
+      "principal": 16410.08,
+      "interest": 1359.68,
+      "balance": 119558.38,
+      "paid": false,
+      "_id": "6abcb2c78c9dc53187531dfb"
+    },
+    {
+      "installmentNumber": 6,
+      "dueDate": "2027-03-30T06:57:11.016Z",
+      "emi": 17769.76,
+      "principal": 16574.18,
+      "interest": 1195.58,
+      "balance": 102984.2,
+      "paid": false,
+      "_id": "6abcb2c78c9dc53187531dfc"
+    },
+    {
+      "installmentNumber": 7,
+      "dueDate": "2027-04-30T06:57:11.016Z",
+      "emi": 17769.76,
+      "principal": 16739.92,
+      "interest": 1029.84,
+      "balance": 86244.28,
+      "paid": false,
+      "_id": "6abcb2c78c9dc53187531dfd"
+    },
+    {
+      "installmentNumber": 8,
+      "dueDate": "2027-05-30T06:57:11.016Z",
+      "emi": 17769.76,
+      "principal": 16907.32,
+      "interest": 862.44,
+      "balance": 69336.96,
+      "paid": false,
+      "_id": "6abcb2c78c9dc53187531dfe"
+    },
+    {
+      "installmentNumber": 9,
+      "dueDate": "2027-06-30T06:57:11.016Z",
+      "emi": 17769.76,
+      "principal": 17076.39,
+      "interest": 693.37,
+      "balance": 52260.57,
+      "paid": false,
+      "_id": "6abcb2c78c9dc53187531dff"
+    },
+    {
+      "installmentNumber": 10,
+      "dueDate": "2027-07-30T06:57:11.016Z",
+      "emi": 17769.76,
+      "principal": 17247.15,
+      "interest": 522.61,
+      "balance": 35013.42,
+      "paid": false,
+      "_id": "6abcb2c78c9dc53187531e00"
+    },
+    {
+      "installmentNumber": 11,
+      "dueDate": "2027-08-30T06:57:11.016Z",
+      "emi": 17769.76,
+      "principal": 17419.63,
+      "interest": 350.13,
+      "balance": 17593.79,
+      "paid": false,
+      "_id": "6abcb2c78c9dc53187531e01"
+    },
+    {
+      "installmentNumber": 12,
+      "dueDate": "2027-09-30T06:57:11.016Z",
+      "emi": 17769.73,
+      "principal": 17593.79,
+      "interest": 175.94,
+      "balance": 0,
+      "paid": false,
+      "_id": "6abcb2c78c9dc53187531e02"
+    }
+  ]
+}
